@@ -1,0 +1,16 @@
+*{
+background: linear-gradient(to top, #CAFBF1, #ECF99A ) ;
+padding: 20px;
+font-style: bold;
+font-family: sans-serif;
+font-weight:bolder;
+font-family: 'MuseoModerno', cursive;
+font-size: 35px;
+
+}
+hr{
+	background:#FC5F4F;
+	margin: 10px;
+	height: 1px;
+	border-radius:80px 180px;
+}
